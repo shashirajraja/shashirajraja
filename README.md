@@ -51,6 +51,12 @@
 <!--p align="left"> <a href="https://twitter.com/shashirajraja" target="blank"><img src="https://img.shields.io/twitter/follow/shashirajraja?logo=twitter&style=for-the-badge" alt="shashirajraja" /></a> </p-->
 
 
+## Projects in Demand
+[![OnlineBookStore](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=onlinebookstore&theme=tokyonight)](https://github.com/shashirajraja/onlinebookstore)
+[![Train-Ticket-Reservation-System](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=Train-Ticket-Reservation-System&theme=tokyonight)](https://github.com/shashirajraja/Train-Ticket-Reservation-System)
+[![Tender-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=Tender-Management-System&theme=tokyonight)](https://github.com/shashirajraja/Tender-Management-System)
+[![Shopping-Cart](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=shopping-cart&theme=tokyonight)](https://github.com/shashirajraja/shopping-cart)
+
 ## Blog posts
 Coming Soon...
 <!-- BLOG-POST-LIST:START -->
