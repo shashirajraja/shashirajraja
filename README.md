@@ -1,32 +1,32 @@
-# Shashi Raj&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Shashi Raj&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/shashirajraja/shashirajraja.svg)](http://hits.dwyl.com/shashirajraja/shashirajraja) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am Graduate from <a href="https://aecwb.edu.in/"> <b>Haldia Institute Of Technology</b></a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Developer.gif" width="30px"> and a <b>code     Enthusiast,</b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code     Enthusiast,</b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently learning* **Amazon Web Services**👨‍💻
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open to collaborate* on **Open Source programs**.
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** *Not so funny* 😴
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently learning* **Amazon Web Services**👨‍💻
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20vw" /> I’m *open to collaborate* on **Open Source programs**.
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** *Not so funny* 😴
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamengine&label=Profile%20views&color=0e75b6&style=flat" alt="subhamengine" /> </p>
 <br>
@@ -53,20 +53,20 @@
 <br>
 
 
-# Connect with me<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /> | </a>
-<a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /> | </a>
-<a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /> | </a>
-<a href="https://www.youtube.com/c/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+<a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+<a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+<a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+<a href="https://www.youtube.com/c/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/youtube.svg" alt="shashirajraja" height="30" width="40" /> | </a>
 <a href="https://www.codechef.com/users/shashirajraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subhamengine" height="30" width="40" /> | </a>
-<a href="https://www.hackerrank.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /> | </a>
-<a href="https://www.leetcode.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashirajraja" height="30" width="40" /> | </a>
-  <a href="https://auth.geeksforgeeks.org/user/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashirajraja" height="30" width="40" /> </a>
+<a href="https://www.hackerrank.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+<a href="https://www.leetcode.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" alt="shashirajraja" height="30" width="40" /> | </a>
+  <a href="https://auth.geeksforgeeks.org/user/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" alt="shashirajraja" height="30" width="40" /> </a>
 </p>
 
 
@@ -81,19 +81,19 @@
 
 <!--
 
-![Dino](https://github.com/shashirajraja/shashirajraja/blob/master/Assets/dino.gif)
+![Dino](https://github.com/shashirajraja/shashirajraja/blob/main/Assets/dino.gif)
 
 <a href="https://in.linkedin.com/in/shashirajraja">
-    <img align="left" alt="Shashi Raj | Linkedin" width="24px" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Shashi Raj | Linkedin" width="24px" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/shashirajraja">
-    <img align="left" alt="Shashi Raj | Twitter" width="26px" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shashi Raj | Twitter" width="26px" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/shashirajraja/">
-    <img align="left" alt="Shashi Raj | Instagram" width="24px" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shashi Raj | Instagram" width="24px" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:shashiraj.972@gmail.com">
-    <img align="left" alt="Shashi Raj | Gmail" width="26px" src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shashi Raj | Gmail" width="26px" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Gmail.svg" />
   </a>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashirajraja&show_icons=true&locale=en&layout=compact" alt="subhamengine" /></p>
@@ -103,6 +103,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashirajraja&" alt="subhamengine" /></p>
   
   
-| [<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Linkedin.svg" alt="Shashi Raj | Linkedin" width="34">](https://in.linkedin.com/in/shashirajraja) | [<img src="https://github.com/shashirajraja/shashirajraja/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315)
+| [<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Linkedin.svg" alt="Shashi Raj | Linkedin" width="34">](https://in.linkedin.com/in/shashirajraja) | [<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315)
 |---|---|---|---|---|---|---|---|
 
