@@ -57,7 +57,8 @@
 [![Tender-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=Tender-Management-System&theme=tokyonight)](https://github.com/shashirajraja/Tender-Management-System)
 [![Shopping-Cart](https://github-readme-stats.vercel.app/api/pin/?username=shashirajraja&repo=shopping-cart&theme=tokyonight)](https://github.com/shashirajraja/shopping-cart)
 
-## Blog posts
+
+<!--## Blog posts-->
 Coming Soon...
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
