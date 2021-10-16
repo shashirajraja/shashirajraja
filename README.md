@@ -7,8 +7,8 @@
 <p>
   <em>
     A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b><span>Haldia Institute Of Technology</span></b></a>, who believes in solving the 
-      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer and
-    <b>performing</b> Well and 
+      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer,
+    <b>Improving Skills</b> and 
     <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
   </em>  
 </p>
@@ -39,11 +39,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashirajraja&theme=tokyonight" />
 </p>
 <br>
-<!--
-![Shashi Raj's github stats](https://github-readme-stats.vercel.app/api?username=shashirajraja&show_icons=true&hide_border=true)
--->
-
-<br>
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashirajraja&theme=tokyonight" alt="shashirajraja" /></a> </p>
@@ -59,7 +54,7 @@
 
 
 ## Blog posts
-Coming Soon...
+[Coming Soon...](https://flowcv.me/shashirajraja)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -67,17 +62,17 @@ Coming Soon...
 # Connect with me<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Handshake.gif" height="32px">
 
 <p align="left">
-<a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
-<a href="mailto:shashiraj.972@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/452/gmail-new.png" alt="shashirajraja" height="30" width="40" /></a>    
-<a href="https://www.hackerearth.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashirajraja" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /></a>
-<a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>
-<a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="mailto:shashiraj.972@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="shashirajraja" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>  
+ <a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="https://www.hackerearth.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /></a>  
+<!-- <a href="https://fb.com/shashirajrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashirajrajaa" height="30" width="40" /></a>  
 <a href="https://codepen.io/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shashirajraja" height="30" width="40" /></a>
 <a href="https://dev.to/shashirajraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shashirajraja" height="30" width="40" /></a>
-<a href="https://fb.com/shashirajrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashirajrajaa" height="30" width="40" /></a>
 <a href="https://medium.com/@shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shashirajraja" height="30" width="40" /></a>
-<a href="/https://rss.com/podcasts/shashirajraja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/shashirajraja/" height="30" width="40" /></a>
+<a href="/https://rss.com/podcasts/shashirajraja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/shashirajraja/" height="30" width="40" /></a> -->
 </p>
 <br>
 <br>
@@ -91,5 +86,5 @@ Coming Soon...
 
 
 ### Support
-<p><a href="https://paypal.me/shashirajraja?locale.x=en_GB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shashirajraja" /></a></p>
+<p align="left"><a href="https://paypal.me/shashirajraja?locale.x=en_GB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shashirajraja" /></a></p>
 <br><br>
