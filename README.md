@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    A Passionate <b>Software Developer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b>Haldia Institute Of Technology</b></a>, who believes in solving the 
+    A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b><span>Haldia Institute Of Technology</span></b></a>, who believes in solving the 
       <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer and
     <b>performing</b> Well and 
     <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
