@@ -8,9 +8,9 @@
   <em>
     I am Graduate from <a href="https://hithaldia.ac.in/"> <b>Haldia Institute Of Technology</b></a>.  
     A Passionate <b>Software Developer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code     Enthusiast,</b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">  who believes in solving the 
-      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Being Consistent in 
-    <b>Growth</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px">
+      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer and
+    <b>performing</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Rocket.gif" width="18px">Well and 
+    <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
   </em>  
 </p>
 
@@ -19,7 +19,7 @@
 - 🔭 I’m *currently Working on* **Ecommerce Projects**👨‍💻
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently learning* **Amazon Web Services**👨‍💻
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Open Source programs**.
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20vw" /> I’m *Always available* to *help*  **Learners 🌐**
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** *More productive while listening Music*🎧
 
