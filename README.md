@@ -16,9 +16,9 @@
 
 <br>
 
+- 🔭 I’m *currently Working on* **Ecommerce Projects**👨‍💻
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently learning* **Amazon Web Services**👨‍💻
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20vw" /> I’m *open to collaborate* on **Open Source programs**.
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Open Source programs**.
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** *More productive while listening Music*🎧
@@ -46,6 +46,10 @@
 
 <br>
 <br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashirajraja&theme=tokyonight" alt="shashirajraja" /></a> </p>
+
+<!--p align="left"> <a href="https://twitter.com/shashirajraja" target="blank"><img src="https://img.shields.io/twitter/follow/shashirajraja?logo=twitter&style=for-the-badge" alt="shashirajraja" /></a> </p-->
 
 
 ## Blog posts
