@@ -16,11 +16,11 @@
 <br>
 
 - 🔭 *Currently Working on* **Ecommerce Projects**
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20vw" /> *Currently learning* **Amazon Web Services** 👨‍💻
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20vw" /> *Looking to collaborate* on **Open Source programs** 
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20vw" /> *Always available* to *help*  **Learners**
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** *More productive while listening Music* 🎧
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Amazon Web Services** 👨‍💻
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to collaborate* on **Open Source programs** 
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always available* to *help*  **Learners**
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** *More productive while listening Music* 🎧
 - 📫 How to reach: **shashiraj.972@gmail.com** 📧
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashirajraja&label=Profile%20views&color=0e75b6&style=flat" alt="shashirajraja" /> </p>
