@@ -54,7 +54,8 @@
 
 
 ## Blog posts
-[Coming Soon...](https://flowcv.me/shashirajraja)
+[Coming Soon...](https://flowcv.me/shashirajraja)<br>
+Youtube Channel: [Bitter Code](https://youtube.com.com/@bittercode?sub_confimation=1)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
