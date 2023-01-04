@@ -16,6 +16,7 @@
 <br>
 
 - 🔭 *Currently Working on* **Ecommerce Projects**
+- <img alt="GIF" src="https://user-images.githubusercontent.com/34605595/210514091-d5e9d26e-66ed-4676-bbe8-5e1ef5bd7dfe.gif" width="40px" /> Visit our Youtube Channel [**Bitter Code**](https://www.youtube.com/@bittercode?sub_confirmation=1)
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Amazon Web Services** 👨‍💻
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to collaborate* on **Open Source programs** 
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always available* to *help*  **Learners**
