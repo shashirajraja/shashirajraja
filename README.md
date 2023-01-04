@@ -64,6 +64,7 @@ Youtube Channel: [Bitter Code](https://www.youtube.com/@bittercode?sub_confirmat
 # Connect with me<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Handshake.gif" height="32px">
 
 <p align="left">
+  <a href="https://www.youtube.com/@bittercode?sub_confirmation=1" target="_blank"><img alt="GIF" src="https://www.seminarsonly.com/news/wp-content/uploads/2021/09/youtube.jpg" width="90"/> </a>
  <a href="mailto:shashiraj.972@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="shashirajraja" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
  <a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>  
