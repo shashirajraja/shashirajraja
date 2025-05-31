@@ -46,7 +46,7 @@
 
 ## 💼 Professional Experience
 
-### **Infosys Ltd.** — *Senior Software Engineer*  
+### **Infosys Ltd.** — *Specialist Programmer L2*  
 📅 *September 2020 – Present*
 
 #### **Project: Digital Payments as a Service**  
