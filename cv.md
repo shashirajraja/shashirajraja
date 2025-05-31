@@ -1,5 +1,5 @@
 # Shashi Raj
-📍 India, Maharashtra, India | 📧 shashiraj.972@gmail.com | 📞 +91-XXXXXXXXXX | [LinkedIn](https://in.linkedin.com/in/shashirajraja) | [GitHub](https://github.com/shashirajraja)
+📍 Pune, Maharashtra, India | 📧 shashiraj.972@gmail.com | 📞 +91-XXXXXXXXXX | [LinkedIn](https://in.linkedin.com/in/shashirajraja) | [GitHub](https://github.com/shashirajraja)
 
 ---
 
