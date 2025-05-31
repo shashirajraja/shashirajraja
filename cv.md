@@ -89,7 +89,3 @@
 
 **Bachelor of Technology in Information Technology**  
 Haldia Institute of Technology, West Bengal, India | 2016 – 2020
-
----
-
-*📄 Created using AI assistance*
